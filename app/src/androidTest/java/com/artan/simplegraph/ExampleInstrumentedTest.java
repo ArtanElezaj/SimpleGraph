@@ -1,4 +1,4 @@
-package nyc.c4q.nesada.simplegraph;
+package com.artan.simplegraph;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("nyc.c4q.nesada.simplegraph", appContext.getPackageName());
+        assertEquals("com.artan.simplegraph", appContext.getPackageName());
     }
 }

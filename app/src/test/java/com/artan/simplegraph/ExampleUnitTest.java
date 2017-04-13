@@ -1,4 +1,4 @@
-package nyc.c4q.nesada.simplegraph;
+package com.artan.simplegraph;
 
 import org.junit.Test;
 

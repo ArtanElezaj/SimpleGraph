@@ -1,4 +1,4 @@
-package nyc.c4q.nesada.simplegraph;
+package com.artan.simplegraph;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

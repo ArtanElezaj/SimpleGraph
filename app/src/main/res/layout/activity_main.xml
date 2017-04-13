@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="nyc.c4q.nesada.simplegraph.MainActivity">
+    tools:context="com.artan.simplegraph.MainActivity">
 
     <com.github.mikephil.charting.charts.BarChart
         android:id="@+id/bargraph"
